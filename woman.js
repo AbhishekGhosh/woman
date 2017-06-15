@@ -25,6 +25,7 @@ function writeToTmp(myText) {
   //TODO: replace with a css file
   myText = '\
    <link rel="stylesheet" href="//cdn.jsdelivr.net/font-hack/2.020/css/hack.min.css">\
+   <link rel="stylesheet" href="http://thomasf.github.io/solarized-css/solarized-light.min.css" >\
    <style>\
    body {\
      padding: 50px;\
