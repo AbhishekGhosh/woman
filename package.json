@@ -1,6 +1,6 @@
 {
   "name": "woman",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "man pages that make you say \"woah\"",
   "main": "woman.js",
   "preferGlobal": true,
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dawsonbotsford/woman.git"
+    "url": "git+https://github.com/AbhishekGhosh/woman.git"
   },
   "keywords": [
     "documentation",
@@ -25,12 +25,12 @@
     "linux",
     "bsd"
   ],
-  "author": "Dawson Botsford <dawsonbotsford@gmail.com> (http://dawsonbotsford.com)",
+  "author": "Dawson Botsford <admin@thecustomizewindows.com> (https://thecustomizewindows.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dawsonbotsford/woman/issues"
+    "url": "https://github.com/AbhishekGhosh/woman/issues"
   },
-  "homepage": "https://github.com/dawsonbotsford/woman#readme",
+  "homepage": "https://github.com/AbhishekGhosh/woman#readme",
   "dependencies": {
     "chalk": "^1.1.1",
     "open": "0.0.5",
